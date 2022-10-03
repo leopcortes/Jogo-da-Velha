@@ -1,2 +1,2 @@
-# Jogo-da-Velha
-Jogo da Velha feito em HTML, CSS e JavaScript
+# Jogo da Velha
+Projeto de um jogo da velha feito em HTML, CSS e JavaScript
